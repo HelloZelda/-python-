@@ -12,7 +12,7 @@
 
 ### 运行程序
 ```bash
-python 口算天天练_ver0.92.py
+python 口算天天练_ver1.0.py
 ```
 
 ### 选择模式
